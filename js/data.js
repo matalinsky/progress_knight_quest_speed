@@ -184,7 +184,7 @@ const jobBaseData = {
     "Nova": { name: "Nova", maxXp: 5.1e19, income: 3e14, heroxp: 320 },
     "Sigma Proioxis": { name: "Sigma Proioxis", maxXp: 5e20, income: 2.15e15, heroxp: 330 },
     "Acallaris": { name: "Acallaris", maxXp: 5e22, income: 2.15e16, heroxp: 333 },
-    "One Above All": { name: "One Above All", maxXp: 5e27, income: 2.5e17, heroxp: 335 },
+    "One Above All": { name: "One Above All", maxXp: 5e27, income: 1e30, heroxp: 1000 },
 
     "Snow Crash": { name: "Snow Crash", maxXp: Infinity, income: 2.5e54, heroxp: 1615 },
     "Player One": { name: "Player One", maxXp: Infinity, income: 2.5e56, heroxp: 1800 },
@@ -234,7 +234,7 @@ const skillBaseData = {
     "Essence Collector": { name: "Essence Collector", maxXp: 100, heroxp: 288, effect: 0.01, description: "Essence Gain" },
     "Galactic Command": { name: "Galactic Command", maxXp: 100, heroxp: 290, effect: -0.01, description: "Reduced Expenses" },
 
-    "Yin Yang": { name: "Yin Yang", maxXp: 100, heroxp: 290, effect: 0.020, description: "Essence + Evil Gain" },
+    "Yin Yang": { name: "Yin Yang", maxXp: 100, heroxp: 290, effect: 0.20, description: "Essence + Evil Gain" },
     "Parallel Universe": { name: "Parallel Universe", maxXp: 100, heroxp: 300, effect: 0.02, description: "All XP" },
     "Higher Dimensions": { name: "Higher Dimensions", maxXp: 100, heroxp: 300, effect: 0.001, description: "Longer Lifespan" },
     "Epiphany": { name: "Epiphany", maxXp: 100, heroxp: 280, effect: 0.012, description: "Galactic Council XP" },
